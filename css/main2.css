@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+.b1{
+    background-color: rgb(201, 85, 85);
+    border: 3px solid white !important;
+    color: white;
+    text-align: center;
+}
